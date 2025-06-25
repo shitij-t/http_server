@@ -1,0 +1,20 @@
+.# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+*.wasm
+*.bin
+# Test binary, generated with go test -c
+*.test
+# Output of 'go build'
+go-rest-server # Replace with your executable name if different.
+               # If you used 'go build', it defaults to the directory name.
+
+# Dependency directories
+vendor/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
